@@ -1,6 +1,9 @@
 <h1 align="center">Hello, It's me Alia 🌠</h1>
 
 <p align="center">Welcome to my space a place where technology, data science, and creativity converge. Here, you'll find my projects, interests, and a bit of my journey. Feel free to explore and connect!</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5505a592-9669-4558-b649-594ab5c5021a" alt="Space" />
+</p>
 <br>
 <h3 align="center">A Technophile, AI Specialist, and Data Scientist, eager for knowledge</h3>
 <p align="center">From diving deep into Artificial Intelligence (AI) and its applications, including Machine Learning (ML), to experimenting with Computer Vision, natural Language Processing (NLP), Recommendation Systems, and Embedded Systems, my journey has been a thrilling exploration of innovation and discovery. Whether it's coding, analyzing data, or designing solutions, I love pushing the boundaries of technology. I’m also currently learning app development using the Flutter framework.</p>
@@ -78,9 +81,6 @@
   </a>
   <a href="https://www.leetcode.com/82luli02" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  
+  </a>  
 </p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5505a592-9669-4558-b649-594ab5c5021a" alt="Space" />
-</p>
+
